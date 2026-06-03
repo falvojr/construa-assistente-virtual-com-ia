@@ -15,7 +15,7 @@ Quanto mais claro e organizado, melhor o Edu ensina.
 >
 > Dica: você já escreveu parte disso no seu outro repositório. Traga pra cá e refine.
 
-## (Exemplo de formato — apague e escreva os seus)
+## (Exemplo de formato, apague e escreva os seus)
 
 ### Nome do conceito
 

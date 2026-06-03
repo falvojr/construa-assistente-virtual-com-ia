@@ -24,4 +24,4 @@ Sem isso, o agente recebe os dados mas não sabe o que eles significam.
 ---
 
 > 🔒 **Regra de ouro (reforce isso no `AGENTS.md` também):** o Edu só deve usar como verdade o que
-> está nestes dados. Se a informação não estiver aqui, ele admite que não sabe — nunca inventa.
+> está nestes dados. Se a informação não estiver aqui, ele admite que não sabe. Ele nunca inventa.

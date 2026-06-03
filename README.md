@@ -1,4 +1,4 @@
-# Edu — Educador Financeiro Inteligente
+# Edu, o Educador Financeiro Inteligente
 
 > ✍️ **Sua vez:** escreva aqui, em 2 ou 3 linhas, o que é o Edu e o problema que ele resolve.
 > Exemplo de estrutura (não copie, adapte com as suas palavras): "O Edu é um agente de IA que ensina
@@ -7,7 +7,7 @@
 ## Como funciona
 
 Este projeto segue o padrão aberto **[AGENTS.md](https://agents.md)**: toda a definição do agente vive
-em arquivos de texto (Markdown). Não há um "app" tradicional — o agente ganha vida quando você abre
+em arquivos de texto (Markdown). Não há um "app" tradicional. O agente ganha vida quando você abre
 esta pasta em um **harness** compatível (Claude Code, Cursor, Gemini CLI, Antigravity e outros).
 
 O harness lê o `AGENTS.md` automaticamente e passa a se comportar como o Edu.
